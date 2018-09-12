@@ -1,0 +1,4 @@
+uk\co\wirenut\plugin\commands\CommandSpawn.class
+uk\co\wirenut\plugin\commands\home\CommandSetHome.class
+uk\co\wirenut\plugin\commands\home\CommandHome.class
+uk\co\wirenut\plugin\SpigotNut.class

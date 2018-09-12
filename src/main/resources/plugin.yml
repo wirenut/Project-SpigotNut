@@ -1,0 +1,14 @@
+name: SpigotNut
+main: uk.co.wirenut.plugin.SpigotNut
+version: 1.0
+api-version: 1.13.1
+commands:
+  spawn:
+    description: Your description
+    usage: /spawn
+  sethome:
+    description: Your description
+    usage: /sethome
+  home:
+    description: Your description
+    usage: /home

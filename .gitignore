@@ -25,6 +25,7 @@ hs_err_pid*
 /target/
 
 .idea
+.idea/workspace.xml
 .settings/
 .classpath
 .project

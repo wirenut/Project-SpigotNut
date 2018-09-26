@@ -1,4 +1,4 @@
-package uk.co.wirenut.plugin.commands.home;
+package uk.co.wirenut.SpigotNut.commands.home;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -8,10 +8,9 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 
-public class CommandHome implements CommandExecutor {
+public class home implements CommandExecutor {
 
 
-	@Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
     	
     	if(sender instanceof Player) {

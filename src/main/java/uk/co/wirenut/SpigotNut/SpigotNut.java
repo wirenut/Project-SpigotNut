@@ -4,7 +4,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import uk.co.wirenut.SpigotNut.commands.spawn;
 import uk.co.wirenut.SpigotNut.commands.home.home;
 import uk.co.wirenut.SpigotNut.commands.home.sethome;
-import uk.co.wirenut.SpigotNut.listeners.portal;
 
 public class SpigotNut extends JavaPlugin {
 	
